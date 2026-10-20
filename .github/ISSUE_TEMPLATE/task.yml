@@ -1,0 +1,11 @@
+name: 🔧 Task
+description: A task that needs to be done
+type: Task
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What needs to be done?
+      description: Clear description of the task and its goal.
+    validations:
+      required: true

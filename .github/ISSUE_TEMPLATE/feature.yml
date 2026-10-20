@@ -1,6 +1,7 @@
 name: ✨ Feature
 description: New idea or improvement
 labels: [enhancement]
+type: Feature
 body:
   - type: textarea
     id: problem

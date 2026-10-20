@@ -1,6 +1,7 @@
 name: 🐛 Bug
 description: Something isn't working
 labels: [bug]
+type: Bug
 body:
   - type: textarea
     id: description
